@@ -11,7 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="11947a6c-4e5a-4424-9802-c9c8b35627e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shutdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shutdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shutdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shutdown.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -108,6 +109,13 @@
       <workItem from="1666118946019" duration="992000" />
       <workItem from="1666120265141" duration="276000" />
       <workItem from="1666120918805" duration="545000" />
+      <workItem from="1666444719936" duration="706000" />
+      <workItem from="1666445673882" duration="60000" />
+      <workItem from="1666455853955" duration="76000" />
+      <workItem from="1666455990987" duration="598000" />
+      <workItem from="1666457695338" duration="605000" />
+      <workItem from="1666595938632" duration="460000" />
+      <workItem from="1666597040021" duration="311000" />
     </task>
     <servers />
   </component>
@@ -137,5 +145,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

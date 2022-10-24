@@ -32,7 +32,18 @@ public class shutdown {
                         }).start();
                         Thread.sleep(16000);
                         System.out.println("Shutdown");
-                        Runtime.getRuntime().exec("shutdown -s -t 0");
+                        try {
+                            String OperatingSystem = System.getProperty("os.name");
+                            if (OperatingSystem.contains("Windows")) {
+                            Runtime.getRuntime().exec("shutdown -s -t 0");
+                            }
+                            else {
+                                Runtime.getRuntime().exec("shutdown -h now");
+                            }
+                        } catch (Exception e1) {
+                            e1.printStackTrace();
+                        }
+
                     } catch (Exception e1) {
                         e1.printStackTrace();
                     }
